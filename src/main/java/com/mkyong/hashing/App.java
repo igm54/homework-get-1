@@ -11,7 +11,7 @@ public class App {
             System.exit(0);
         }
         System.out.println(sha256hex(args[0]));
-
+//Comment 2
     }
 
     public static String sha256hex(String input) {
