@@ -3,7 +3,7 @@ package com.mkyong.hashing;
 import org.apache.commons.codec.digest.DigestUtils;
 
 public class App {
-
+//Comment 1
     public static void main(String[] args) {
 
         if (args.length < 1) {
